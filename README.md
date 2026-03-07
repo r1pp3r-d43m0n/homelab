@@ -178,8 +178,8 @@ homelab/
 
 - GitHub Profile: [github.com/r1pp3r-d43m0n](https://github.com/r1pp3r-d43m0n)
 - LinkedIn: [linkedin.com/in/thomasmsumer](https://linkedin.com/in/thomasmsumer)
-- TryHackMe: Active — SEC0 Certified
-- HackTheBox: Active (Private, will go public with portfolio site)
+- TryHackMe: Active — SEC0 Certified - Pursuing SEC1, SAL1, PT1
+- HackTheBox: Active (Private, will go public with portfolio site) - Pursuing CJCA, CDSA
 
 ---
 
