@@ -10,6 +10,7 @@ This repo is the living documentation of my home lab. Every major build step, co
 
 1. **Force myself to understand things deeply enough to explain them**
 2. **Build a portfolio that shows real hands-on work, not just certifications**
+3. **Create a valuable resource for others taking the plunge into cybersecurity and/or self-hosting**
 
 The lab is intentionally purple-team: I use it to run attacks, observe what they look like in logs and SIEM alerts, refine detection rules, and harden defenses. Break it, fix it, document it, repeat.
 
