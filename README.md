@@ -166,6 +166,7 @@ homelab/
 |  WIP | Wazuh deployment for variation on SIEM workflow(s) |
 | Ongoing | Security Audit + Stack Consolidation & Cleanup (constant) |
 | Ongoing | Purple team attack/detect/improve cycles |
+| Ongoing | AI Security Research & Study |
 
 *Dates are approximate — full detailed logs coming in individual section READMEs.*
 
@@ -176,7 +177,7 @@ homelab/
 - **Bro, DNS really is everything.** When something breaks mysteriously, it's almost always DNS. The t-shirts are true. Building a redundant DNS cluster taught me more about how the protocol actually works than any course.
 - **VirtioFS passthrough** requires specific kernel support — learned this the hard way after a kernel update broke mounts silently. Wanted to **fstab** something. 🔪 ...But I got it!
 - **Tailscale ACLs** are deceptively powerful. Treating access by identity rather than IP flipped how I think about network segmentation. Really feels like it could be the enterprise standard soon. 
-- **SIEM alerting is an art.** Too broad = alert fatigue. Too narrow = blind spots. Tuning Splunk against my own lab attacks has been the most valuable hands-on security learning I've done. Pairing it with Wireshark and port mapping/sniffing tools, plus applying things I've learned from online hacking labs has been super rewarding!
+- **SIEM alerting is an art.** Too broad = alert fatigue. Too narrow = blind spots. Tuning SIEMs against my own lab attacks has been the most valuable hands-on security learning I've done. Pairing it with Wireshark and port mapping/sniffing tools, plus applying things I've learned from online hacking labs has been super rewarding!
 - **Caddy is underrated.** Compared to nginx or Apache for a homelab reverse proxy, the automatic TLS handling alone saves so much time and so many headaches.
 
 ---
