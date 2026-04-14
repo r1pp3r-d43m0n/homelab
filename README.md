@@ -1,4 +1,5 @@
-# 🏠 Tom's Lab Space | homelab adventures
+# 🏠 Tom's Lab Space
+https://tomlab.space/
 
 > **A self-built, production-grade purple-team home lab** — designed for hands-on cybersecurity learning, attack simulation, and defensive tool testing. Everything here is documented as I build it.
 
