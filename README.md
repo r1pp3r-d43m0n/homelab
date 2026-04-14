@@ -138,27 +138,32 @@ homelab/
 
 | Date | Milestone |
 |---|---|
-| 2022 | Initial Proxmox VE host setup 🗸 |
+| 2020 | Begin studying network engineering & systems administration 🗸 |
+| 2021 | Initial Proxmox VE host setup 🗸 |
+| 2022 | Hands-on experimentation with virtualization, docker, etc. 🗸 |
 | 2023 | Caddy reverse proxy + auto TLS 🗸 |
-| 2023 | Docker + Portainer deployment 🗸 |
+| 2023 | Docker + Portainer prod deployment 🗸 |
 | 2023 | VirtioFS storage passthrough 🗸 |
-| 2024 | Splunk SIEM deployment 🗸 |
 | 2024 | Security Onion NSM/IDS deployment 🗸 |
 | 2025 | Homarr Dashboard deployment 🗸 |
 | 2025 | Arr stack (Sonarr/Radarr/Prowlarr/Bazarr) 🗸 |
 | 2025 | Gluetun WireGuard VPN gateway container 🗸 |
 | 2026 | Technitium DNS/DHCP HA cluster (Pi + VM) 🗸 |
 | 2026 | Tailscale mesh VPN + subnet routing + split DNS + ACL policies 🗸 |
+| 2026|  Self-Hosted portfolio site (https://tomlab.space/) 🗸 |
+| 2026 | SSH hardening + VE auth hardening 🗸 |
 | 2026 | Currently Building: |
+| 2026 | Authelia / Authentik SSO / Enterprise Auth studying |
+|  WIP | Self-Hosted Blog deployment |
+|  WIP | Github CI/CD + Portfolio Site integration |
+|  WIP | Gitea self-hosted Git CI/CD + Portfolio Site integration |
 |  WIP | Self-Hosted AI Lab Container w/Perplexica, Ollama, Open WebUI |
-|  WIP | Portfolio Site + Authelia SSO + Coolify! |
 |  WIP | Nextcloud deployment + Obsidian sync + Claude integration |
 |  WIP | n8n Workflow Automation |
-|  WIP | Github CI/CD + Portfolio Site integration |
 |  WIP | VLAN topology restructure |
-|  WIP | Network topology mapping w/ NetAlertX & draw.io |
-|  WIP | OPNsense re-deploy (to play nice with all isolated networks and subnets) |
-|  WIP | Wazuh deployment for variation on SIEM workflow(s)
+|  WIP | Network topology mapping |
+|  WIP | OPNsense re-deploy (to play nice with all isolated networks, subnets, Tailscale etc.) |
+|  WIP | Wazuh deployment for variation on SIEM workflow(s) |
 | Ongoing | Security Audit + Stack Consolidation & Cleanup (constant) |
 | Ongoing | Purple team attack/detect/improve cycles |
 
@@ -181,8 +186,8 @@ homelab/
 - GitHub Profile: [github.com/r1pp3r-d43m0n](https://github.com/r1pp3r-d43m0n)
 - LinkedIn: [linkedin.com/in/thomasmsumer](https://linkedin.com/in/thomasmsumer)
 - TryHackMe: Active — SEC0 Certified - Pursuing SEC1, SAL1, PT1
-- HackTheBox: Active (Private, will go public with portfolio site) - Pursuing CJCA, CDSA
+- HackTheBox: Active - Pursuing CJCA, CDSA
 
 ---
 
-<sub>This repo is actively maintained. Configs, writeups, and lessons learned are added as I build. Nothing here is aspirational — if it's documented, it's been **built** and **tested**. Anytime there's a disaster you can expect a postmortum here where I pick through the rubble.</sub>
+<sub>This repo is actively maintained. Configs, writeups, and lessons learned are added as I build. Nothing here is aspirational — if it's documented, it's been **built** and **tested**. Anytime there's a disaster you can expect a postmortem here where I pick through the rubble.</sub>
